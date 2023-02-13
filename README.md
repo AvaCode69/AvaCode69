@@ -26,4 +26,4 @@ TypeScript to develop the front-end of websites
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvresCode&layout=compact&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvaCode69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
