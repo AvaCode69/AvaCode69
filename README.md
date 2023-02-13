@@ -11,7 +11,7 @@ TypeScript to develop the front-end of websites
 - 📫 You can reach me at mohammadi.sut@gmail.com</div>
 <br/>
 <br/>
-### Tech Stacks I know:
+<h4>Tech Stacks I know:</h4>
 <br/>
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
